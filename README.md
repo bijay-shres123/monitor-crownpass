@@ -1,3 +1,5 @@
+he project is created as per requierments for coursework under SOFT7001. This work belongs to Bijay Shrestha.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
