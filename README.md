@@ -1,4 +1,4 @@
-he project is created as per requierments for coursework under SOFT7001. This work belongs to Bijay Shrestha.
+The project is created as per requierments for coursework under SOFT7001. This work belongs to Bijay Shrestha.
 
 # Getting Started with Create React App
 
